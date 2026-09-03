@@ -1,0 +1,19 @@
+[project]
+name = "sae-evening-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "denji_tensai" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "datasets>=5.0.1",
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "torch>=2.14.0",
+    "tqdm>=4.70.0",
+    "transformer-lens>=3.8.1",
+]
